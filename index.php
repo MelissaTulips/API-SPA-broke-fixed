@@ -13,7 +13,6 @@
     <div class="nav">
         <button id="registerBtn">Register</button>
         <button id="loginBtn">Login</button>
-        <button id="getUserBtn">Get User</button>
         <button id="createPostBtn">Create Post</button>
         <button id="viewPostsBtn">View Posts</button>
         <button id="logoutBtn" style="display: none;">Logout</button>
